@@ -3,12 +3,10 @@
 
 In this tutorial we'll look at how to use [Carthage](https://github.com/Carthage/Carthage) to install a 3rd party framework into an Xcode project. If you've never used Carthage or looking for alternatives to Cocoapods, this tutorial is for you!
 
-This repo is the final project for the tutorial.
-
 <i>*** Tutorial will be posted to my YouTube channel soon! ***</i>
 
 ### Installation
-- Download or clone the repo
+- Download or clone the repo (starter branch or master branch)
 - Run `carthage update`
 - Open and enjoy 🎉
 
