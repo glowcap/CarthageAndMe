@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SnapKit
 
 class MainViewController: UIViewController {
 
@@ -16,4 +17,3 @@ class MainViewController: UIViewController {
   }
 
 }
-
